@@ -1,0 +1,9 @@
+.Header {
+  width: 100%;
+  background-color: var(--blue-300);
+  padding: 24px;
+}
+
+.Header .title {
+  color: var(--white-100);
+}

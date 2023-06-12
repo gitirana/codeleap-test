@@ -1,0 +1,10 @@
+.container {
+  border-radius: 16px;
+  border: 1px solid var(--gray-300);
+  background-color: var(--white-100);
+  outline: none;
+  padding: 24px;
+
+  display: flex;
+  flex-direction: column;
+}
