@@ -4,7 +4,7 @@ import "./Post.css";
 export function Post() {
   return (
     <div className="container post">
-      <Header title="My First Post at CodeLeap Network" />
+      <Header title="My First Post at CodeLeap Network" hasIcon="true" />
 
       <div className="postSection">
         <div className="author">

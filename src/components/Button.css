@@ -12,9 +12,31 @@ button {
   color: var(--white-100);
   cursor: pointer;
 
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
   transition: background-color 0.2s;
 }
 
 button:hover {
   background-color: var(--blue-500);
+}
+
+.secondary {
+  font-weight: 700;
+  background-color: var(--white-100);
+  color: var(--black-900);
+  border: 1px solid var(--gray-700);
+}
+.secondary:hover {
+  background-color: var(--gray-200);
+}
+
+.error {
+  background-color: var(--red-300);
+}
+
+.error:hover {
+  background-color: var(--red-500);
 }
