@@ -40,3 +40,11 @@ button:hover {
 .error:hover {
   background-color: var(--red-500);
 }
+
+.save {
+  background-color: var(--green-300);
+}
+
+.save:hover {
+  background-color: var(--green-500);
+}
