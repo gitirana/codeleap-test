@@ -1,11 +1,11 @@
 import { Header } from "../components/Header";
-import { CreateComment } from "../components/CreateComment";
+import { CommentSection } from "../components/CommentSection";
 
 export function Main() {
   return (
     <>
-      <Header />
-      <CreateComment />
+      <Header title="CodeLeap Network" />
+      <CommentSection />
     </>
   );
 }

@@ -1,0 +1,17 @@
+.post {
+  margin-top: 1.5rem;
+  padding: 0;
+  overflow: hidden;
+}
+
+.postSection {
+  padding: 1.5rem;
+  font-size: 1.125rem;
+}
+
+.author {
+  display: flex;
+  justify-content: space-between;
+  color: var(--gray-800);
+  margin-bottom: 1rem;
+}

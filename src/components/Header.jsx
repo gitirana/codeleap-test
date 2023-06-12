@@ -1,9 +1,9 @@
 import "./Header.css";
 
-export function Header() {
+export function Header(props) {
   return (
     <div className="Header">
-      <strong className="title">CodeLeap Network</strong>
+      <strong className="title">{props.title}</strong>
     </div>
   );
 }

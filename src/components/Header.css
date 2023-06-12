@@ -1,7 +1,7 @@
 .Header {
   width: 100%;
   background-color: var(--blue-300);
-  padding: 24px;
+  padding: 1.5rem;
 }
 
 .Header .title {
