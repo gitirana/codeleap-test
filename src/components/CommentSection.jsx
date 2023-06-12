@@ -1,7 +1,7 @@
 import { CreateComment } from "./CreateComment";
 import { Post } from "./Post";
 
-import "./CommentSection.css";
+import "./styles/CommentSection.css";
 
 export function CommentSection() {
   return (

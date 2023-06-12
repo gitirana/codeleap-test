@@ -1,7 +1,7 @@
 import { Button } from "../components/Button";
 
 import Modal from "react-modal";
-import "./Delete.css";
+import "./styles/Delete.css";
 
 export function Delete() {
   return (

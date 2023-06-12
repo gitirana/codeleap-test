@@ -1,5 +1,5 @@
 import { Button } from "./Button";
-import "./CreateComment.css";
+import "./styles/CreateComment.css";
 
 export function CreateComment() {
   return (

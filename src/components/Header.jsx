@@ -1,5 +1,5 @@
-import "./Header.css";
 import { Trash, PencilLine } from "@phosphor-icons/react";
+import "./styles/Header.css";
 
 export function Header(props) {
   return (

@@ -1,5 +1,5 @@
 import { Header } from "./Header";
-import "./Post.css";
+import "./styles/Post.css";
 
 export function Post() {
   return (

@@ -1,7 +1,7 @@
 import Modal from "react-modal";
 import { Button } from "../components/Button";
 
-import "./SignUp.css";
+import "./styles/SignUp.css";
 
 export function SignUp() {
   return (

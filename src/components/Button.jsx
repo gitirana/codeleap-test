@@ -1,5 +1,5 @@
 import { Warning, FloppyDisk } from "@phosphor-icons/react";
-import "./Button.css";
+import "./styles/Button.css";
 
 export function Button(props) {
   return (
